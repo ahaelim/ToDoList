@@ -1,0 +1,18 @@
+@font-face {
+    font-family: 'SLEIGothicTTF';
+    src: url('https://cdn.jsdelivr.net/gh/projectnoonnu/noonfonts_2104@1.0/SLEIGothicTTF.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+}
+
+.hidden {
+    display: none;
+}
+
+body {
+    color: brown;
+    font-family: 'SLEIGothicTTF';
+    text-align: center;
+    height: 100vh;
+    width: 100%;
+}
